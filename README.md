@@ -1,3 +1,5 @@
 # Titanic Survival
-Random Forest Classifier determing survival based on passengers personal and ticket infomrmation 
+Determing survival based on passengers personal and ticket information 
+
+ML model used: Random Forest Classifier
 
